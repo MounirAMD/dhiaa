@@ -1,0 +1,29 @@
+li{
+    color: white;
+    font-size: 20px;
+}
+
+.paragraph{
+    border-radius: 10px;
+    padding: 10px;
+}
+
+div{
+    margin: 10px;
+}
+
+p{
+    line-height: 1.3;      /* Set line height */
+    font-size: 15px;
+    font-family: sans-serif;
+    font-weight: 400;
+}
+
+img{
+    border-radius: 10px;
+}
+
+iframe{
+    width: 410px;
+    height: 1000px;
+}
